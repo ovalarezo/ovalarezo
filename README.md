@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ovalarezo
+- 👋 Hi, I’m Orlando Valarezo
 - 👀 I’m interested in power system operation, local markets, flexibility, network reconfiguration
 - 🌱 I’m currently doing a PhD at Comillas University in Madrid - Spain
 - 💞️ I’m looking to collaborate on local flexibility market clearing-algorithms
